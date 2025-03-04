@@ -8,7 +8,7 @@ First, install UV (if not already installed):
 
 ```sh
 curl -LsSf https://astral.sh/uv/install.sh | sh
-
+```sh
 For Windows:
 `powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"`
 

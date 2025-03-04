@@ -7,9 +7,10 @@ A simple command-line To-Do List Manager built with Python and Click, managed us
 First, install UV (if not already installed):
 
 ```sh
-curl -LsSf https://astral.sh/uv/install.sh | sh
-```sh
+```curl -LsSf https://astral.sh/uv/install.sh | sh```
+
 For Windows:
+
 `powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"`
 
 Verify installation:

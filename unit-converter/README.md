@@ -2,8 +2,8 @@ Unit Converter
 A simple unit converter built with Python, UV, and Streamlit.
 
 Getting Started
-1️⃣ Install UV
-First, install UV (if not already installed):
+1️⃣ Install UV First, install UV (if not already installed):
+
 
 curl -LsSf https://astral.sh/uv/install.sh | sh
 For Windows:

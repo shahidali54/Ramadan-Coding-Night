@@ -2,7 +2,7 @@
 
 A simple Question Answering Stateful chatbot with GitHub authentication built with Python, UV, and Chainlit.
 
-![Chainlit Life Cycle](./assets/chainlit_life_cycle.webp)
+![Chainlit Life Cycle](./chainlit_life_cycle.webp)
 
 ## Getting Started
 
